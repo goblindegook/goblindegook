@@ -1,1 +1,1 @@
-![](./black-cat.gif)
+![](/goblindegook/goblindegook/raw/master/black-cat.gif)
