@@ -1,1 +1,1 @@
-![](/goblindegook/goblindegook/raw/master/black-cat.gif)
+![](https://github.com/goblindegook/goblindegook/blob/master/black-cat.gif?raw=true)
