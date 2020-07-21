@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="html.svg" width="800">
+  <img src="black-cat.gif">
 </div>
