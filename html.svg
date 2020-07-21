@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="800px" height="400px">
+	<foreignObject width="800px" height="400px">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 400px;
+				}
+			</style>
+			<div class="container">
+        <a href="https://github.com/goblindegook/goblindegook/blob/master/black-cat.gif?raw=true" alt="A black cat drinking water">
+			</div>
+		</div>
+	</foreignObject>
+</svg>
